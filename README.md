@@ -20,4 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Selva-Sathish&show_icons=true&locale=en" alt="Selva-Sathish" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Selva-Sathish&" alt="Selva-Sathish" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Selva-Sathish&show_icons=true&locale=en&layout=compact" alt="Selva-Sathish" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Selva-Sathish" alt="Selva-Sathish" /></a></p>
